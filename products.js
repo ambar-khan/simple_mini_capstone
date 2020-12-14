@@ -4,7 +4,7 @@ var app = new Vue({
   el: "#app",
   data: function () {
     return {
-      message: "Hello from JavaScript!",
+      message: "Products Page",
       products: []
     };
   },
